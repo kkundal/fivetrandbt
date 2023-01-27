@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: kk_google_sheets
+    tables:
+      - name: kk_sheets

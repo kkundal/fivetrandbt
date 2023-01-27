@@ -1,0 +1,1 @@
+select * from {{ source('kk_google_sheets', 'kk_sheets') }}
